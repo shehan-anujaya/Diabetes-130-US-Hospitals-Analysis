@@ -19,6 +19,25 @@ This analysis examines **100,000+ patient encounters** spanning 130 US hospitals
 
 ---
 
+## Visualizations
+
+### Readmission Distribution
+![Readmission Distribution](plots/readmission_distribution.png)
+
+### Age Distribution Analysis
+![Age Distribution](plots/age_distribution.png)
+
+### Medication Efficacy by Group
+![Medication Efficacy](plots/medication_efficacy_group.png)
+
+### VCI Validation - Risk Stratification
+![VCI Validation](plots/vci_validation.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](plots/correlation_heatmap.png)
+
+---
+
 ## Repository Structure
 
 ```
